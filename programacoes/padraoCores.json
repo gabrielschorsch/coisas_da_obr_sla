@@ -1,0 +1,18 @@
+{
+    "coloredRegions": {
+        "namedColors": {
+            "mover": "rgba(0,0,150,0.2)",
+            "identifica_curva": "rgba(150,0,0,0.2)",
+            "realiza_curva": "rgba(0,150,0,0.2)",
+            "aproximar_obstaculo": "rgba(255,255,255,0.05)",
+            "desvia_obstaculo": "rgba(0,0,0,0.5)",
+            "encruzilhada": "rgba(120, 120, 120,0.5)",
+            "giro_proprio_eixo": "rgba(136, 0, 140, 0.2)",
+            "realiza_calculo": "rgba(120, 245, 230, 0.2)",
+            "aguarda_sensor": "rgba(252, 154, 83,0.3)",
+            "move_atuador": "rgba(255, 125, 151,0.1)",
+            "inclinacao": "rgba(204, 187, 78, 0.2)",
+            "resgate": "rgba(0,0,0,0.3)"
+        }
+    }
+}
